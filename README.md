@@ -2,7 +2,14 @@
 #Algorithm name: Bubble Sort 
 
 #Screenshot of test 
+1. Display screen when nothing is run
 <img width="1463" height="761" alt="Screenshot 2025-11-30 at 9 50 57 AM" src="https://github.com/user-attachments/assets/09d6b9f6-f9f0-4c83-ba4f-41d2a973fabe" />
+
+2. Display Screen when Run is clicked (p1)
+<img width="1441" height="747" alt="Screenshot 2025-11-30 at 9 51 58 AM" src="https://github.com/user-attachments/assets/5ea5c375-7b22-41f3-909a-80da46bf8ab6" />
+
+2. Display Screen when Run is clicked (p2)
+<img width="1433" height="682" alt="Screenshot 2025-11-30 at 9 52 59 AM" src="https://github.com/user-attachments/assets/a5e4f083-92a4-48fb-af2c-346cfba2ea79" />
 
 #Problem breakdown and computational thinking 
 1. Decomposition
