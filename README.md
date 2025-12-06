@@ -2,7 +2,7 @@
 #Algorithm name: Bubble Sort 
 
 #Screenshot of test 
-1. Display screen when nothing is run
+1. Original Display screen
 <img width="1463" height="761" alt="Screenshot 2025-11-30 at 9 50 57 AM" src="https://github.com/user-attachments/assets/09d6b9f6-f9f0-4c83-ba4f-41d2a973fabe" />
 
 2. Display Screen when Run is clicked (p1)
