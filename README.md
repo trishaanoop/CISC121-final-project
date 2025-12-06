@@ -56,11 +56,11 @@ Colab link: https://colab.research.google.com/drive/1W_gU5tDFHsHNfqgYE2ql39LPaLC
 https://huggingface.co/spaces/trishaanoop/CISC121-project
 
 #Author and Acknowledegement 
-Author: Trisha Anoop
-Sources used:
-- Creating graphs for visualization:
-  - https://matplotlib.org/stable/tutorials/pyplot.html
-  - https://www.dataquest.io/blog/how-to-plot-a-bar-graph-matplotlib/
-  - https://www.gradio.app/docs/gradio/barplot (used to learn functions)
+- Author: Trisha Anoop
+- Sources used:
+   - Creating graphs for visualization:
+     - https://matplotlib.org/stable/tutorials/pyplot.html
+     - https://www.dataquest.io/blog/how-to-plot-a-bar-graph-matplotlib/
+     - https://www.gradio.app/docs/gradio/barplot (used to learn functions)
 - Yield function in Python https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python
 - AI disclaimer: ChatGPT was used during the debugging process by prompting, "What is causing an error in the function get_steps?" When running the code through the Hugging Face Aoo tab, the first arror message pointed to this function, so ChatGPT was used to identify the issue and guide the fixes. For this prompt, the AI tool also identified other errors, including variable-name spelling mistakes, missing final lines (such as the one that makes the Gradio app run only when the file is executed directly), missing import statements for required libraries (Gradio, Matplotlib (creating charts), NumPy (handling data and timing), PIL (working with images)), and other lines that needed to be added for the program to run properly. Overall, I found AI extemely helpful in the debugging process, as it explained each error clearly and in simple terms, which made it much easier for me to understand the issues and learn from there. 
